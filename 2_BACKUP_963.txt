@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-sua file 2 boi master
-=======
-sua 2 boi beta
->>>>>>> beta
